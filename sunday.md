@@ -18,12 +18,14 @@
   - [ ] Start streaming
 - [ ] Open Chrome
   - [ ] Launch Restream.io website
-  - [ ] Update title and discription in restream.io<sub>1</sub>
+  - [ ] Update title and discription in restream.io <sup>1</sup>
   - [ ] Start streaming to worship community via the slider labled `Forward Church Worship Community`
 
 During practice is a good time to make some notes on parts of worship that might be good for getting tight shots with camera 2.  Using the slide numbers on pro-presenter and writing shot ideas down can make it easier during worship live.
 
 - [ ] End Worship Community Stream when practice ends
+
+<sup>1<sup> There should be an email in Apple Mail with the week's title and description. If it is not there, please find Clint or whoever is preaching that week.
 
 ## Pre-Service
 
