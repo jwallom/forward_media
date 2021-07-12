@@ -25,7 +25,7 @@ During practice is a good time to make some notes on parts of worship that might
 
 - [ ] End Worship Community Stream when practice ends
 
-<sup>1<sup> There should be an email in Apple Mail with the week's title and description. If it is not there, please find Clint or whoever is preaching that week.
+<sup>1</sup> There should be an email in Apple Mail with the week's title and description. If it is not there, please find Clint or whoever is preaching that week.
 
 ## Pre-Service
 
