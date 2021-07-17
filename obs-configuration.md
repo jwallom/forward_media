@@ -1,6 +1,6 @@
 # OBS For LiveStream
 
-OBS Studio is the tool we currently use to live stream on Sundays. This is an open source production tool for managing broadcast streams.
+[OBS Studio](https://obsproject.com/) is the tool we currently use to live stream on Sundays. This is an open source production tool for managing broadcast streams.
 
 ## Base Settings
 
