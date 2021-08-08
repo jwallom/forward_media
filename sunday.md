@@ -49,4 +49,4 @@ Be awesome and do a great job!
 - [ ] When the post service video is over, stop streams
   - [ ] Stop Restream.io
   - [ ] Stop streaming in OBS
-- [ ] Stop OBS recordingi
+- [ ] Stop OBS recording
