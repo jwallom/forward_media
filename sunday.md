@@ -20,6 +20,7 @@
   - [ ] Launch Restream.io website
   - [ ] Update title and discription in restream.io <sup>1</sup>
   - [ ] Start streaming to worship community via the slider labled `Forward Church Worship Community`
+  - [ ] Update announcments video. Can be done by double clicking on media item in Announcment scene and updating file
 
 During practice is a good time to make some notes on parts of worship that might be good for getting tight shots with camera 2.  Using the slide numbers on pro-presenter and writing shot ideas down can make it easier during worship live.
 
