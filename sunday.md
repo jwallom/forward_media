@@ -1,15 +1,16 @@
 # Sunday Morning Checklist
 
+Welcome to the Live Stream checklist. This is a living document and will change as we improve services. Please note that the prioty of the stream is to keep recording.  If we lose the internet connection, or experience network issues, never stop OBS froim recording. We can use the recording to upload a full service during the week.
+
 ## Pre-Practice
 
 ### Hardware Setup
 
 - [ ] Reboot Computer
-- [ ] Turn on cameras
-  - [ ] Set camera 1 to a wide, centered shot
-  - [ ] Set camera 2 to a tight shot
+- [ ] Turn on camera on tripod. Make sure PTZ is on and controllable with controller.
+  - [ ] Set tripod camera to a wide, centered shot. Ideally make sure all singers are in shot with a little extra room left and right.
 - [ ] Turn on powerstrip with lights
-- [ ] Make sure the P-16 mixer is on and connected
+- [ ] Make sure the P-16 mixer is on and connected (ultranet light should be green)
 
 ### Software Setup
 
@@ -47,6 +48,9 @@ Be awesome and do a great job!
 
 - [ ] Start the post service video in OBS as the service closes.  This needs to be done ASAP so we do not broadcast copywrited music.
 - [ ] Stop recording on the video cameras
+- [ ] While the end service video plays, go to the mixer and remove the flash drive (make sure the sound person stopped recording).
+  - [ ] Attach the usb to the streaming PC, and copy the audio recordning from it to `LIVESTREAM` folder.
+  - [ ] Rename the file to YYYYMMDD_Raw_Audio.wav, where YYYYMMDD is Year, Month, Day of service.  Example: January 14, 2017 would be 20170114_Raw_Audio.wav.
 - [ ] When the post service video is over, stop streams
   - [ ] Stop Restream.io
   - [ ] Stop streaming in OBS
