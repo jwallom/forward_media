@@ -10,7 +10,6 @@ Welcome to the Live Stream checklist. This is a living document and will change 
 - [ ] Turn on camera on tripod. Make sure PTZ is on and controllable with controller.
   - [ ] Set tripod camera to a wide, centered shot. Ideally make sure all singers are in shot with a little extra room left and right.
 - [ ] Turn on powerstrip with lights
-- [ ] Make sure the P-16 mixer is on and connected (ultranet light should be green)
 
 ### Software Setup
 
@@ -36,9 +35,8 @@ During practice is a good time to make some notes on parts of worship that might
 Starting 5 minuted before 10am, we start pre-service.
 
 - [ ] Make the pre-service video live in OBS
-- [ ] Start recording in OBS
+- [ ] Start recording in OBS (this is a good time to also remind and assist the sound engineer to start recording)
 - [ ] Turn on the YouTube and Facebook streams on restream.io via Chrome
-- [ ] Start recording on the video cameras (this is a good time to also remind and assist the sound engineer to start recording)
 
 ## Service
 
@@ -48,8 +46,8 @@ Be awesome and do a great job!
 
 - [ ] Start the post service video in OBS as the service closes.  This needs to be done ASAP so we do not broadcast copywrited music.
 - [ ] Stop recording on the video cameras
-- [ ] While the end service video plays, go to the mixer and remove the flash drive (make sure the sound person stopped recording).
-  - [ ] Attach the usb to the streaming PC, and copy the audio recordning from it to `LIVESTREAM` folder.
+- [ ] While the end service video plays, go to both mixers and remove the flash drives (make sure the sound person stopped recording).
+  - [ ] Attach the USBs to the streaming PC, and copy the audio recording from it to `LIVESTREAM` folder.
   - [ ] Rename the file to YYYYMMDD_Raw_Audio.wav, where YYYYMMDD is Year, Month, Day of service.  Example: January 14, 2017 would be 20170114_Raw_Audio.wav.
 - [ ] When the post service video is over, stop streams
   - [ ] Stop Restream.io
