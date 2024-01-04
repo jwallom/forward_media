@@ -1,6 +1,10 @@
 # Sunday Morning Checklist
 
-Welcome to the Live Stream checklist. This is a living document and will change as we improve services. Please note that the prioty of the stream is to keep recording.  If we lose the internet connection, or experience network issues, never stop OBS froim recording. We can use the recording to upload a full service during the week.
+Welcome to the Live Stream checklist. This is a living document and will change
+as we improve services. Please note that the prioty of the stream is to keep
+recording.  If we lose the internet connection, or experience network issues,
+never stop OBS froim recording. We can use the recording to upload a full
+service during the week.
 
 ## Pre-Practice
 
@@ -19,10 +23,11 @@ Welcome to the Live Stream checklist. This is a living document and will change 
 - [ ] Open Chrome
   - [ ] Launch Restream.io website
   - [ ] Update title and discription in restream.io <sup>1</sup>
-  - [ ] Start streaming to worship community via the slider labled `Forward Church Worship Community`
-  - [ ] Update announcments video. Can be done by double clicking on media item in Announcment scene and updating file
 
-During practice is a good time to make some notes on parts of worship that might be good for getting tight shots with camera 2.  Using the slide numbers on pro-presenter and writing shot ideas down can make it easier during worship live.
+During practice is a good time to make some notes on parts of worship that
+might be good for getting tight shots with camera 2.  Using the slide numbers
+on pro-presenter and writing shot ideas down can make it easier during worship
+live.
 
 - [ ] End Worship Community Stream when practice ends
 
@@ -34,11 +39,14 @@ During practice is a good time to make some notes on parts of worship that might
 
 Starting 5 minuted before 10am, we start pre-service.
 
-- [ ] Make the pre-service video live in OBS
 - [ ] Start recording in OBS (this is a good time to also remind and assist the sound engineer to start recording)
-- [ ] Turn on the YouTube and Facebook streams on restream.io via Chrome
+- [ ] Make the pre-service video live in OBS
+- [ ] Start stream in Forward Church **Private group** only
 
 ## Service
+
+- [ ] As worship is winding up (use your judgment) make sure all three streams
+  go live. (YouTube **Page** and Facebook **Public** need to turn on)
 
 Be awesome and do a great job!
 
