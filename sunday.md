@@ -36,14 +36,15 @@ service during the week.
         the bottom of this column. It will not start the stream, but will get
         you to the screen to setup the livestream.
       - Set the same title and description you set in restream.
-      - Wait till 9:55 to go live.
+      - Go live to the Facebook Group in Restream and make sure it is recieving
+        on the Facebook Community Group.
+      - Wait till 9:55 to go live on the Facebook Group Page after starting the
+        preservice video.
 
 During practice is a good time to make some notes on parts of worship that
 might be good for getting tight shots with camera 2.  Using the slide numbers
 on pro-presenter and writing shot ideas down can make it easier during worship
 live.
-
-- [ ] End Worship Community Stream when practice ends
 
 [^1]: There should be an email in Apple Mail with the week's title and
     description. If it is not there, please find Clint or whoever is preaching
@@ -77,9 +78,6 @@ Be awesome and do a great job!
   drives (make sure the sound person stopped recording).
   - [ ] Attach the USBs to the streaming PC, and copy the audio recording from
     it to `LIVESTREAM` folder.
-  - [ ] Rename the file to YYYYMMDD_Raw_Audio.wav, where YYYYMMDD is Year,
-    Month, Day of service.  Example: January 14, 2017 would be
-    20170114_Raw_Audio.wav.
 - [ ] When the post service video is over, stop streams
   - [ ] Stop Restream.io
   - [ ] Stop streaming in OBS
