@@ -28,11 +28,11 @@ service during the week.
   - [ ] Launch Facebook
     - [ ] Setup Forward Church Online Community Stream, but do not go live yet
       - On the left side of the Facebook page is a shortcuts section. Select
-        _Forward Church Online Community_.
-      - Click the _Write something_ dialogue in the center like you are going
+        *Forward Church Online Community*.
+      - Click the *Write something* dialogue in the center like you are going
         to write a new post.
-      - Click the 3 `...` option on the new post, and select _Live Video_.
-      - The left option, red icon, is go live. Click the _Go Live_ button on
+      - Click the 3 `...` option on the new post, and select *Live Video*.
+      - The left option, red icon, is go live. Click the *Go Live* button on
         the bottom of this column. It will not start the stream, but will get
         you to the screen to setup the livestream.
       - Set the same title and description you set in restream.
@@ -40,6 +40,11 @@ service during the week.
         on the Facebook Community Group.
       - Wait till 9:55 to go live on the Facebook Group Page after starting the
         preservice video.
+  - Open a new tab and select the *Center Cam - Tracking* bookmark from the
+    cameras folder in the bookmark bar.
+    - Tracking is a priority during the message portion to ensure editing later
+      in the week an get the best shots for all services.
+    - <!-- NOTE: Finish this with better things -->
 
 During practice is a good time to make some notes on parts of worship that
 might be good for getting tight shots with camera 2.  Using the slide numbers
