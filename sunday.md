@@ -71,9 +71,9 @@ service during the week.
 
         ![tracking diagram](./images/tracking-02.png)
 
-        1. Drop down for target selection and silhouette manipulation
-        1. Silhouette size option
-        1. Tracking on and off toggle
+        1. (1) Drop down for target selection and silhouette manipulation
+        1. (2) Silhouette size option
+        1. (3) Tracking on and off toggle
 
         Make sure the center camera is not the live camera before turning on
         the tracking software. When turned on, it will move the camera around.
