@@ -24,27 +24,65 @@ service during the week.
   - [ ] Start streaming
 - [ ] Open Chrome
   - [ ] Launch Restream.io website
+
+      ![open restream](./images/open-restream.png)
+
   - [ ] Update title and discription in restream.io [^1]
   - [ ] Launch Facebook
+
+      ![open facebook](./images/open-facebook.png)
+
     - [ ] Setup Forward Church Online Community Stream, but do not go live yet
       - On the left side of the Facebook page is a shortcuts section. Select
         *Forward Church Online Community*.
+
+          ![online community](./images/select-community.png)
+
       - Click the *Write something* dialogue in the center like you are going
         to write a new post.
+
+          ![write something](./images/fb-write-something.png)
+
       - Click the 3 `...` option on the new post, and select *Live Video*.
+
+          ![click elipse](./images/fb-click-elipse.png)
+
       - The left option, red icon, is go live. Click the *Go Live* button on
         the bottom of this column. It will not start the stream, but will get
         you to the screen to setup the livestream.
+
+          ![select go live](./images/fb-go-live.png)
+
       - Set the same title and description you set in restream.
+
+          ![set title](./images/fb-set-title.png)
+
       - Go live to the Facebook Group in Restream and make sure it is recieving
         on the Facebook Community Group.
       - Wait till 9:55 to go live on the Facebook Group Page after starting the
         preservice video.
+
+          ![go live](./images/fb-go-live-2.png)
+
   - Open a new tab and select the *Center Cam - Tracking* bookmark from the
     cameras folder in the bookmark bar.
     - Tracking is a priority during the message portion to ensure editing later
       in the week an get the best shots for all services.
-    - <!-- NOTE: Finish this with better things -->
+
+        ![tracking diagram](./images/tracking-02.png)
+
+        1. Drop down for target selection and silhouette manipulation
+        1. Silhouette size option
+        1. Tracking on and off toggle
+
+        Make sure the center camera is not the live camera before turning on
+        the tracking software. When turned on, it will move the camera around.
+        This is normal and you will need to readjust it with the controller.
+        Once locked on you can switch back to the center camera.
+
+        Make sure to set another camera as an emergency go-to. The tracking can
+        lose the target if the face disappears from view. This can happen if
+        they turn away from the camera or move too rapidly.
 
 During practice is a good time to make some notes on parts of worship that
 might be good for getting tight shots with camera 2.  Using the slide numbers
