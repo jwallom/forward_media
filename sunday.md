@@ -65,7 +65,9 @@ service during the week.
 
         ![select go live](./images/fb-go-live.png)
 
-    - Set the same title and description you set in restream.
+    - Set the same title and description you set in restream. Please note that
+      FB does not show the title to viewers, and it should be included in the
+      discription/body as well.
 
         ![set title](./images/fb-set-title.png)
 
