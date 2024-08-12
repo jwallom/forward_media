@@ -83,7 +83,7 @@ service during the week.
 - Open a new tab and select the *Center Cam - Tracking* bookmark from the
   cameras folder in the bookmark bar.
   - Tracking is a priority during the message portion to ensure editing later
-    in the week an get the best shots for all services.
+    in the week gets the best shots for all streaming/media services.
 
       ![tracking diagram](./images/tracking-02.png)
 
