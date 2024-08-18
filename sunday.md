@@ -26,7 +26,7 @@ service during the week.
 
         ![controller all](./images/controller-all-cameras.png)
 
-    1. (1) Select On and press (3) Select Enter
+    1. (1) Select On and press (3) Enter
 
         ![controller on](./images/controller-on-off.png)
 
@@ -177,7 +177,7 @@ Be awesome and do a great job!
 
       ![controller all](./images/controller-all-cameras.png)
 
-  1. (2) Select On and press (3) Select Enter
+  1. (2) Select On and press (3) Enter
 
       ![controller on](./images/controller-on-off.png)
 
