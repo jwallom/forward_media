@@ -78,6 +78,8 @@ service during the week.
 
         ![click elipse](./images/fb-click-elipse.png)
 
+        ![add go live](./images/fb-add-go-live.png)
+
     - The left option, red icon, is go live. Click the *Go Live* button on
       the bottom of this column. It will not start the stream, but will get
       you to the screen to setup the livestream.
