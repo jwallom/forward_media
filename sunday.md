@@ -19,6 +19,11 @@ service during the week.
 ### Software Setup
 
 - [ ] Log into streaming computer
+- [ ] Ensure WiFi is disabled. This is the ice cream shaped icon on the top bar
+  near the clock. (Solid outline means off, made of stripes means on)
+
+    ![mac wifi](./images/mac-wifi.png)
+
 - [ ] Start OBS
   - [ ] Start streaming
 - [ ] Open Chrome to get this checklist, start restream, setup Facebook, and
