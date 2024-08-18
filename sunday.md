@@ -12,9 +12,23 @@ service during the week.
 
 - [ ] Reboot Computer
 - [ ] Turn on powerstrip with lights
-- [ ] Turn on the PTZ controller
-  - [ ] Once booted, goto settings -> ???? -> All Cameras -> On -> Enter to
-        turn the Canon Cameras on.
+- [ ] Turn on the PTZ controller with the switch on the back right corner.
+  - [ ] Wake up the cameras:
+    1. Go to settings
+
+        ![controller settings](./images/controller-settings.png)
+
+    1. Select Camera -> Video
+
+        ![controller video](./images/controller-camera-video.png)
+
+    1. Select All Cameras
+
+        ![controller all](./images/controller-all-cameras.png)
+
+    1. (1) Select On and press (3) Select Enter
+
+        ![controller on](./images/controller-on-off.png)
 
 ### Software Setup
 
@@ -150,4 +164,21 @@ Be awesome and do a great job!
   - [ ] Stop streaming in OBS
 - [ ] Stop OBS recording
 - [ ] Power off Canon Cameras through the controller
+
+  1. Go to settings
+
+      ![controller settings](./images/controller-settings.png)
+
+  1. Select Camera -> Video
+
+      ![controller video](./images/controller-camera-video.png)
+
+  1. Select All Cameras
+
+      ![controller all](./images/controller-all-cameras.png)
+
+  1. (2) Select On and press (3) Select Enter
+
+      ![controller on](./images/controller-on-off.png)
+
 - [ ] Power off PTZ controller
