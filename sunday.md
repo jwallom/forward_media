@@ -47,11 +47,10 @@ service during the week.
 
 - [ ] Launch Restream.io website
 
-    ![open restream](./images/open-restream.png)
+    ![open restream](./images/restream-live.png)
 
-- [ ] Choose the OBS option if it comes up
-
-    ![select use OBS](./images/restream-obs.png)
+- [ ] There should only be one stream on the page. It will have last week's title, in this example it
+  is **Forward Church Live**. Select `RTMP Setup` to set the stream up.
 
     Make sure all of the streaming service toggles are turned off.
 
