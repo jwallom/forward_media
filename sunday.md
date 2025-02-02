@@ -43,22 +43,15 @@ service during the week.
 - [ ] Open Chrome to get this checklist, start restream, setup Facebook, and
       get tracking online.
 
-#### Launch Reastream.io
+#### Use Restream in OBS
 
-- [ ] Launch Restream.io website
-
-    ![open restream](./images/restream-live.png)
-
-- [ ] There should only be one stream on the page. It will have last week's title, in this example it
-  is **Forward Church Live**. Select `RTMP Setup` to set the stream up.
-
-    Make sure all of the streaming service toggles are turned off.
-
-- [ ] Update title and discription in restream.io [^1]
+- [ ] Update title and discription [^1]
+      The keyboard shortcuts for copy and paste will not work. You can right-click on a field in OBS
+      and select paste.
 
 #### Facebook Private Group
 
-- [ ] Launch Facebook
+- [ ] Launch Facebook and ensure you are in the David King profile.
 
     ![open facebook](./images/open-facebook.png)
 
@@ -85,18 +78,24 @@ service during the week.
 
         ![select go live](./images/fb-go-live.png)
 
-    - Set the same title and description you set in restream. Please note that
-      FB does not show the title to viewers, and it should be included in the
-      discription/body as well.
+    - Set the same title and description you set in restream. Please note that FB does not show the
+      title to viewers, and it should be included in the discription/body as well. Ensure we are set
+      for streaming software and not webcam.
 
         ![set title](./images/fb-set-title.png)
 
     - Go live to the Facebook Group in Restream and make sure it is recieving
       on the Facebook Community Group.
     - Wait till 9:55 to go live on the Facebook Group Page after starting the
-      preservice video.
+      pre-service video.
 
         ![go live](./images/fb-go-live-2.png)
+
+    - If you are having trouble getting restream to connect, make sure in the advanced section under
+      the streamkey in Facebook that the persistant key is turned on. Checking to verify the end of
+      the key makes you a super starzy.
+
+        ![persistant key](./images/fb-ensure-stream-key.png)
 
 #### Tracking
 
