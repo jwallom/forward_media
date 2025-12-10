@@ -25,8 +25,8 @@ The songs should already be loaded in the correct section in ProPres.
    - Font size > 80pt < 100pt
    - Try to ensure line breaks make sense with song
    - Use groups! (Verse 1, Chorus, Verse 2, Bridge, etc)
-   - The first slide should be in the intro group with no BG, a clear all queue, and Worship screen
-     set.
+   - The first slide should be in the intro group with no background, a clear all queue, and Worship
+     screen set.
 
 ### Between Practice and Service
 
@@ -48,7 +48,7 @@ The songs should already be loaded in the correct section in ProPres.
 
 ### ~9:30 and 11:30: MC and Announcements
 
-1. Be prepared for testemonies. [ctr+b] launches the bible, try to pull up any verses used. Default
+1. Be prepared for testimonies. [ctr+b] launches the bible, try to pull up any verses used. Default
    to NKJV.
 1. Wait for the MC to say roll the announcements, look to the sound person to ensure they are ready.
    When they give the thumbs up, start the video!
@@ -60,9 +60,7 @@ The songs should already be loaded in the correct section in ProPres.
 1. Pay attention and be ready to assist Clint or any other teacher.
 1. In general Clint drives this section, but sometimes asks for a slide or follow along.
 
-
-### 10:28am and 12:28pm: End of servcice
+### 10:28am and 12:28pm: End of service
 
 1. Be ready to start Spotify end of service playlist
 1. Start end service slide loop
-
