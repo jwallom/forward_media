@@ -50,6 +50,7 @@ The songs should already be loaded in the correct section in ProPres.
 
 1. Be prepared for testimonies. [ctr+b] launches the bible, try to pull up any verses used. Default
    to NKJV.
+1. **IMPORTANT**: Turn on side lights when band is dismissed.
 1. Wait for the MC to say roll the announcements, look to the sound person to ensure they are ready.
    When they give the thumbs up, start the video!
 1. As soon as they start, *turn off the spot lights.*
