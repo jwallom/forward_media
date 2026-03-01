@@ -17,6 +17,8 @@ lights for Sunday services.
 
 The songs should already be loaded in the correct section in ProPres.
 
+Make a change
+
 1. Pay attention to the practice and make sure the song order is correct. Adjust the arrangement as
    needed.
 1. Ensure the lyrics are formatted properly.
