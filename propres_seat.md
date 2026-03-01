@@ -31,10 +31,14 @@ The songs should already be loaded in the correct section in ProPres.
 ### Between Practice and Service
 
 1. Setup teaching slides from Dropbox
+1. Verify the bible function is set to display appropriately
 1. Get any clarification needed from Worship team
-1. **15m before Service**: Turn off center lights
-1. **15m before Service**: Ensure the pre-service slide deck has started
-1. **15m before Service**: Start Spotify pre-service playlist
+1. **15m before Service**:
+   - Turn off center lights
+   - Ensure the pre-service slide deck has started
+   - Set stage Display to pre-service(main output with clocks)
+   - Start Spotify pre-service playlist
+   - Verify that the countdown has started(automated)
 1. **5m before Service**: Turn off side lights
 
 ### 9:00 and 11:00am: Service Start
@@ -44,7 +48,7 @@ The songs should already be loaded in the correct section in ProPres.
    display.
 1. Follow Worship with lyrics.
 1. As worship is ending, get ready for MC + Announcements
-   - *Ensure Spotify is paused/stopped* - [F8 pauses media]
+   - _Ensure Spotify is paused/stopped_ - [F8 pauses media]
 
 ### ~9:30 and 11:30: MC and Announcements
 
@@ -53,15 +57,16 @@ The songs should already be loaded in the correct section in ProPres.
 1. **IMPORTANT**: Turn on side lights when band is dismissed.
 1. Wait for the MC to say roll the announcements, look to the sound person to ensure they are ready.
    When they give the thumbs up, start the video!
-1. As soon as they start, *turn off the spot lights.*
-1. When announcements end, *turn on the spot lights quickly followed by the side lights.*
+1. As soon as they start, _turn off the spot lights._
+1. When announcements end, _turn on the spot lights quickly followed by the side lights._
 
 ### Teaching
 
 1. Pay attention and be ready to assist Clint or any other teacher.
+1. Verify the stage display is set to teaching for Clint
 1. In general Clint drives this section, but sometimes asks for a slide or follow along.
 
 ### 10:28am and 12:28pm: End of service
 
-1. Be ready to start Spotify end of service playlist
+1. When Clint plays the pads start Spotify end of service playlist
 1. Start end service slide loop
