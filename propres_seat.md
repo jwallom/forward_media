@@ -3,6 +3,8 @@
 This is designed to be a checklist/guide to running the presentation computer, TV's, projector and
 lights for Sunday services.
 
+Making a simple change
+
 ## Pre-Service
 
 ### 7:00am: Setup
