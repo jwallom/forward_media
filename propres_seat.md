@@ -9,38 +9,34 @@ lights for Sunday services.
 
 - [ ] Reboot media computer.
 - [ ] Turn on:
-      
-      - The power strip next to the media computer. (Powers the rail lights in the booth and the projector)
-      - The blue stage lights.
-      - The TVs on stage.
-      - The projector. (Stage Display)
-      - The center and side ceiling lights for practice.
-      - Front and rear hanging lights.
-      
+  - The power strip next to the media computer. (Powers the rail lights in the booth and the projector)
+  - The blue stage lights.
+  - The TVs on stage.
+  - The projector. (Stage Display)
+  - The center and side ceiling lights for practice.
+  - Front and rear hanging lights.
 - [ ] Make sure the volume is all the way up on the computer.
 
 ### Worship Rehearsal
 
 The songs should already be loaded in the correct section in ProPres.
 
-- [ ] Pay attention to the practice and make sure the song order is correct. Adjust the arrangement as
-      needed.
+- [ ] Pay attention to the practice and make sure the song order is correct. Adjust the arrangement
+      as needed.
 - [ ] Ensure the lyrics are formatted properly:
-      
-      - 1920 x 1080 screen size
-      - No more than 4 lines per slide
-      - Font size > 80pt < 100pt
-      - Try to ensure line breaks make sense with song
-      - Use groups! (Verse 1, Chorus, Verse 2, Bridge, etc)
-      - The first slide should be in the intro group with no background, a clear all queue, and Worship screen set.
-
+  - 1920 x 1080 screen size
+  - No more than 4 lines per slide
+  - Font size > 80pt < 100pt
+  - Try to ensure line breaks make sense with song
+  - Use groups! (Verse 1, Chorus, Verse 2, Bridge, etc)
+  - The first slide should be in the intro group with no background, a clear all queue, and Worship
+    screen set.
 - [ ] Get any clarification needed from Worship team.
 
 ### Teaching Slides
 
 - [ ] Setup teaching slides from Dropbox
 - [ ] Verify the bible function is set to display appropriately
-
 
 ## Service (9:00am & 11:00am)
 
@@ -51,7 +47,7 @@ The songs should already be loaded in the correct section in ProPres.
 - [ ] Set Stage Display to pre-service (main output with clocks)
 - [ ] Start Spotify pre-service playlist
 - [ ] Verify that the countdown has started automatically
-      
+
 ### 5m before Service
 
 - [ ] Turn off side lights
@@ -83,5 +79,6 @@ The songs should already be loaded in the correct section in ProPres.
 
 ### End of service (10:28am and 12:28pm)
 
-- [ ] As the service is ending, verify media is muted with the sound person and play the end of service playlist.
+- [ ] As the service is ending, verify media is muted with the sound person and play the end of
+      service playlist.
 - [ ] Start end service slide loop as Clint dismisses.
