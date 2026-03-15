@@ -42,7 +42,9 @@ service during the week.
   - [ ] Start streaming
      > **IMPORTANT**: Do not start the streams in the Restream.io widget yet!
 
-#### Use Restream in OBS
+#### Use Restream in OBS (Sundays)
+
+Make sure the _Sunday Live Stream_ profile is selected in OBS 
 
 - [ ] Update title and discription [^1]
       The keyboard shortcuts for copy and paste will not work. You can right-click on a field in OBS
@@ -56,6 +58,14 @@ live.
 [^1]: There should be an email in Apple Mail with the week's title and
     description. If it is not there, please find Clint or whoever is preaching
 that week.
+
+#### Use Facebook Only (Equip/Romans/Etc)
+
+Make sure the _Equip_ profile is selected in OBS
+
+All titles and descriptions have to be managed in Facebook. **Do not use
+Restream** in OBS. This profile streams straight to Facebook and does not
+go through any other services from OBS.
 
 ## Pre-Service
 
