@@ -31,6 +31,7 @@ The songs should already be loaded in the correct section in ProPres.
   - Use groups! (Verse 1, Chorus, Verse 2, Bridge, etc)
   - The first slide should be in the intro group with no background, a clear all queue, and Worship
     screen set.
+  - Ensure slide transition set to crossfade 0.4s
 - [ ] Get any clarification needed from Worship team.
 
 ### Teaching Slides
