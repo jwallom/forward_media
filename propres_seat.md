@@ -1,4 +1,4 @@
-# Sunday ProPresenter Seat Outline
+m# Sunday ProPresenter Seat Outline
 
 This is designed to be a checklist/guide to running the presentation computer, TV's, projector and
 lights for Sunday services.
@@ -48,7 +48,7 @@ The songs should already be loaded in the correct section in ProPres.
 - [ ] Start Spotify pre-service playlist
 - [ ] Verify that the countdown has started automatically
 
-### 5m before Service
+### At Service Start Time
 
 - [ ] Turn off side lights
 
